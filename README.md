@@ -1,2 +1,3 @@
 # jisgeo
-Lets do the first repository.
+Lets make the first git repository.
+Author - Jisna George
